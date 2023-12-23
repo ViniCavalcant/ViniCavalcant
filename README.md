@@ -15,7 +15,6 @@
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone Php" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net/)
 [<img height="48px" width="48px" alt="Icone Laravel" src="https://skillicons.dev/icons?i=laravel"/>](https://laravel.com/)
-[<img height="48px" width="48px" alt="Icone Npm.js" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>](https://www.npmjs.com)
 [<img height="48px" width="48px" alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com/)
 [<img height="48px" width="48px" alt="Icone Tailwind" src="https://skillicons.dev/icons?i=tailwind"/>](https://tailwindcss.com/)
 [<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com)
@@ -44,6 +43,7 @@
 [<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
 [<img height="48px" width="48px" alt="Icone Android Studio" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio?hl=pt-br)
 [<img height="48px" width="48px" alt="Icone IntelliJ" src="https://skillicons.dev/icons?i=idea"/>](https://www.jetbrains.com/pt-br/idea/)
+[<img height="48px" width="48px" alt="Icone Npm.js" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>](https://www.npmjs.com)
 
 ##
 
