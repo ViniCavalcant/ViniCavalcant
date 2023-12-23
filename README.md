@@ -1,4 +1,9 @@
-### Olá, eu sou o **Vini**👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+## Olá, eu sou o **Vini**👋
+### Seja bem-vindo ao meu GitHub. 
+<img src="" alt="" min-width="200px" max-width="200px" width="200px" align="right">
+
 
 - 🔭 Atualemte trabalho como Desenvolvedor Front-End.
 - 🌱 Sou apaixonado por Cinema, Musica e Tecnologia.
