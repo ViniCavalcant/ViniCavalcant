@@ -82,7 +82,7 @@ Encontre-me no [LinkedIn](https://www.linkedin.com/in/vinicius-rodrigues-7a47161
 ##
 
 #### Estatísticas:
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicavalcant&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=vinicavalcant&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
-[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=vinicavalcant&amp;theme=radical"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicavalcant&layout=compact&langs_count=7&theme=radical"/>](https://github.com/ViniCavalcant/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=vinicavalcant&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/ViniCavalcant/)
+[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=vinicavalcant&amp;theme=radical"/>](https://github.com/ViniCavalcant/)
 
