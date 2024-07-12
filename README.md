@@ -66,7 +66,7 @@
 Competências: `Desenvolvimento Front-End`, `Padronização Visual e Funcional`, `Eficiência e Acessibilidade`, 
 <br/> `Otimizando de recursos`, `Projetos Altamente Escaláveis`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQH3CFlXHc5_Yg/company-logo_200_200/0/1712250278927/istpay_logo?e=1729123200&v=beta&t=8ui58VJqdgC1JWirAAEUvbamx2tO1YcTtxDcTyZYBvw" (https://www.linkedin.com/company/3xbank/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://media.licdn.com/dms/image/C4D0BAQFvXMqkhWlqCw/company-logo_200_200/0/1669924816624/onlineapplications_logo?e=1729123200&v=beta&t=GNicVkngPeISP7x-x8oeupcvqUSlk_S_Hlh7MOn5jiQ](https://media.licdn.com/dms/image/D4D0BAQH3CFlXHc5_Yg/company-logo_200_200/0/1712250278927/istpay_logo?e=1729123200&v=beta&t=8ui58VJqdgC1JWirAAEUvbamx2tO1YcTtxDcTyZYBvw)"/>](https://www.linkedin.com/company/istpay/mycompany/)
 **Desenvolvedor Front-End Júnior** \
 [**IstPay**](https://www.linkedin.com/company/istpay/mycompany/)\
 Competências: `Desenvolvimento Front-End`, `Padronização de interfaces`, `Eficiência e Acessibilidade`, 
