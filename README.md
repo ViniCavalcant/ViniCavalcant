@@ -5,7 +5,7 @@
 <img src="" alt="" min-width="200px" max-width="200px" width="200px" align="right">
 
 
-- 🔭 Trabalho como Desenvolvedor Front-End.
+- 🔭 Desenvolvedor Front-End.
 - 🌱 Sou apaixonado por Cinema, Musica e Tecnologia.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 
