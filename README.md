@@ -59,8 +59,8 @@
 
 #### Experiência Profissional:
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQG0auSI2E7dVg/company-logo_200_200/B4DZfCPe50HkAQ-/0/1751310528469/teddyopenfinance_logo?e=1761177600&v=beta&t=X5Ni8k5P1nXKqN7YI78VA9GgPluelfOF4JeC3QwRcfg"/>](https://www.linkedin.com/company/teddyopenfinance/)
-**Desenvolvedor Front-End Júnior** \
-[**Online Applications**](https://www.linkedin.com/company/teddyopenfinance/)\
+**Desenvolvedor Front-End Júnior III** \
+[**Teddy Open Finance**](https://www.linkedin.com/company/teddyopenfinance/)\
 Competências: `Desenvolvimento Front-End`, `Padronização Visual e Funcional`, `Eficiência e Acessibilidade`, 
 <br/> `Otimizando de recursos`, `Projetos Altamente Escaláveis`
 
