@@ -13,13 +13,12 @@
 
 #### Possuo conhecimento sólido sobre:
 [<img height="48px" width="48px" alt="Icone Angular" src="https://skillicons.dev/icons?i=angular"/>](https://angular.io/cli "Angular")
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev "React")
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/ "TypeScript")
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript "JavaScript")
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/ "Figma")
 [<img height="48px" width="48px" alt="Icone MySql" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/ "MySQL")
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML "HTML")
-[<img height="48px" width="48px" alt="Icone Php" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net/ "PHP")
-[<img height="48px" width="48px" alt="Icone Laravel" src="https://skillicons.dev/icons?i=laravel"/>](https://laravel.com/ "Laravel")
 [<img height="48px" width="48px" alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com/ "Bootstrap")
 [<img height="48px" width="48px" alt="Icone Tailwind" src="https://skillicons.dev/icons?i=tailwind"/>](https://tailwindcss.com/ "Tailwind")
 [<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com "SASS")
@@ -27,9 +26,9 @@
 [<img height="48px" width="48px" alt="Icone Storybook" src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4"/>](https://storybook.js.org/ "Storybook")
 
 #### Estou aprendendo sobre ou possuo conhecimento básico:
-[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev "React")
 [<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org "Node.js")
-
+[<img height="48px" width="48px" alt="Icone Php" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net/ "PHP")
+[<img height="48px" width="48px" alt="Icone Laravel" src="https://skillicons.dev/icons?i=laravel"/>](https://laravel.com/ "Laravel")
 [<img height="48px" width="48px" alt="Icone Kotlin" src="https://skillicons.dev/icons?i=kotlin"/>](https://kotlinlang.org/ "Kotlin")
 [<img height="48px" width="48px" alt="Icone Spring" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io/ "Spring")
 [<img height="48px" width="48px" alt="Icone Jenkins" src="https://skillicons.dev/icons?i=jenkins"/>](https://www.jenkins.io/ "Jenkins")
@@ -60,21 +59,21 @@
 
 #### Experiência Profissional:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQFvXMqkhWlqCw/company-logo_200_200/0/1669924816624/onlineapplications_logo?e=1729123200&v=beta&t=GNicVkngPeISP7x-x8oeupcvqUSlk_S_Hlh7MOn5jiQ"/>](https://www.linkedin.com/company/istpay/mycompany/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.onlineapp.com.br/wp-content/uploads/2023/10/Simbolo-Online-App-1.png"/>](https://www.onlineapp.com.br/)
 **Desenvolvedor Front-End Júnior** \
-[**Online Applications**](https://www.linkedin.com/company/istpay/mycompany/)\
+[**Online Applications**](https://www.onlineapp.com.br/)\
 Competências: `Desenvolvimento Front-End`, `Padronização Visual e Funcional`, `Eficiência e Acessibilidade`, 
 <br/> `Otimizando de recursos`, `Projetos Altamente Escaláveis`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrEcO0bj-0kp6Ot-pzLTUMR7AJ_xGysHhe_w&s"/>](https://www.linkedin.com/company/3xbank/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrEcO0bj-0kp6Ot-pzLTUMR7AJ_xGysHhe_w&s](https://media.licdn.com/dms/image/v2/D4D0BAQH3CFlXHc5_Yg/company-logo_200_200/company-logo_200_200/0/1712250278927/istpay_logo?e=1761177600&v=beta&t=DpCCUHcmhx-p-EUeTV8YP7bGNbW1z3voOqUly5w4_4s)"/>](https://www.linkedin.com/company/3xbank/)
 **Desenvolvedor Front-End Júnior** \
-[**IstPay**](https://www.linkedin.com/company/istpay/mycompany/)\
+[**IstPay (3xBank)**](https://www.linkedin.com/company/3xbank/)\
 Competências: `Desenvolvimento Front-End`, `Padronização de interfaces`, `Eficiência e Acessibilidade`, 
 <br/> `Otimizando de recursos`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQFgTem3xYYczA/company-logo_200_200/0/1652965708161/trademaphub_logo?e=1729123200&v=beta&t=7ekN7ngPb0t40ji0NpHgy3KLBVXAiZ_FPK6V0NQpjV8"/>](https://www.linkedin.com/company/valemobi/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQFgTem3xYYczA/company-logo_200_200/company-logo_200_200/0/1652965708161/trademaphub_logo?e=1761177600&v=beta&t=0FiFFVQuXjFjVpHLfcLWYvjyZ-5tilr4iJqQr1oshwc"/>](https://www.linkedin.com/company/trademaphub/)
 **Desenvolvedor Front-End Estágiario** \
-[**Valemobi - TradeMap**](https://www.linkedin.com/company/istpay/mycompany/)\
+[**Valemobi - TradeMap**](https://www.linkedin.com/company/trademaphub/)\
 Competências: `Desenvolvimento Front-End`, `Implementação de Design System`, `Padronização Visual e Funcional`, 
 <br/> `Projetos Altamente Escaláveis`, `Otimização de Processos`, `Equipes Multifuncionais`
 
