@@ -61,26 +61,27 @@
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQG0auSI2E7dVg/company-logo_200_200/B4DZfCPe50HkAQ-/0/1751310528469/teddyopenfinance_logo?e=1761177600&v=beta&t=X5Ni8k5P1nXKqN7YI78VA9GgPluelfOF4JeC3QwRcfg"/>](https://www.linkedin.com/company/teddyopenfinance/)
 **Desenvolvedor Front-End Júnior III** \
 [**Teddy Open Finance**](https://www.linkedin.com/company/teddyopenfinance/)\
-Competências: `Desenvolvimento Front-End`, `Padronização Visual e Funcional`, `Eficiência e Acessibilidade`, 
-<br/> `Otimizando de recursos`, `Projetos Altamente Escaláveis`
+Competências: `React`, `Angular`, `TypeScript`, 
+<br/> `StoryBook`, `Tailwind`, `SCSS`
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.onlineapp.com.br/wp-content/uploads/2023/10/Simbolo-Online-App-1.png"/>](https://www.onlineapp.com.br/)
 **Desenvolvedor Front-End Júnior** \
 [**Online Applications**](https://www.onlineapp.com.br/)\
-Competências: `Desenvolvimento Front-End`, `Padronização Visual e Funcional`, `Eficiência e Acessibilidade`, 
-<br/> `Otimizando de recursos`, `Projetos Altamente Escaláveis`
+Competências: `Angular`, `TypeScript`, `Angular Material`, 
+<br/> `Bootstrap`, `SCSS`, `Figma`
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQH3CFlXHc5_Yg/company-logo_200_200/company-logo_200_200/0/1712250278927/istpay_logo?e=1761177600&v=beta&t=DpCCUHcmhx-p-EUeTV8YP7bGNbW1z3voOqUly5w4_4s"/>](https://www.linkedin.com/company/3xbank/)
 **Desenvolvedor Front-End Júnior** \
 [**IstPay (3xBank)**](https://www.linkedin.com/company/3xbank/)\
-Competências: `Desenvolvimento Front-End`, `Padronização de interfaces`, `Eficiência e Acessibilidade`, 
-<br/> `Otimizando de recursos`
+Competências: `React`, `PHP`, `React Native`, `TypeScript`,
+<br/> `Bootstrap`, `Tailwind`, `SCSS`, `Figma`
+
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQFgTem3xYYczA/company-logo_200_200/company-logo_200_200/0/1652965708161/trademaphub_logo?e=1761177600&v=beta&t=0FiFFVQuXjFjVpHLfcLWYvjyZ-5tilr4iJqQr1oshwc"/>](https://www.linkedin.com/company/trademaphub/)
 **Desenvolvedor Front-End Estágiario** \
 [**Valemobi - TradeMap**](https://www.linkedin.com/company/trademaphub/)\
-Competências: `Desenvolvimento Front-End`, `Implementação de Design System`, `Padronização Visual e Funcional`, 
-<br/> `Projetos Altamente Escaláveis`, `Otimização de Processos`, `Equipes Multifuncionais`
+Competências: `Angular`, `TypeScript`, `Angular Material`,
+<br/> `StoryBook`, `Bootstrap`, `SCSS`, `Docker`
 
 ##
 
