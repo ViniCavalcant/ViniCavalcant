@@ -62,26 +62,26 @@
 **Desenvolvedor Front-End Júnior III** \
 [**Teddy Open Finance**](https://www.linkedin.com/company/teddyopenfinance/)\
 Competências: `React`, `Angular`, `TypeScript`, 
-<br/> `StoryBook`, `Tailwind`, `SCSS`
+<br/> `StoryBook`, `Tailwind`,  `SCSS`
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.onlineapp.com.br/wp-content/uploads/2023/10/Simbolo-Online-App-1.png"/>](https://www.onlineapp.com.br/)
 **Desenvolvedor Front-End Júnior** \
 [**Online Applications**](https://www.onlineapp.com.br/)\
 Competências: `Angular`, `TypeScript`, `Angular Material`, 
-<br/> `Bootstrap`, `SCSS`, `Figma`
+<br/> `Bootstrap`, `SCSS`,  `Figma`
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQH3CFlXHc5_Yg/company-logo_200_200/company-logo_200_200/0/1712250278927/istpay_logo?e=1761177600&v=beta&t=DpCCUHcmhx-p-EUeTV8YP7bGNbW1z3voOqUly5w4_4s"/>](https://www.linkedin.com/company/3xbank/)
 **Desenvolvedor Front-End Júnior** \
 [**IstPay (3xBank)**](https://www.linkedin.com/company/3xbank/)\
 Competências: `React`, `PHP`, `React Native`, `TypeScript`,
-<br/> `Bootstrap`, `Tailwind`, `SCSS`, `Figma`
+<br/> `Bootstrap`, `Tailwind`, `SCSS`,  `Figma`
 
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQFgTem3xYYczA/company-logo_200_200/company-logo_200_200/0/1652965708161/trademaphub_logo?e=1761177600&v=beta&t=0FiFFVQuXjFjVpHLfcLWYvjyZ-5tilr4iJqQr1oshwc"/>](https://www.linkedin.com/company/trademaphub/)
 **Desenvolvedor Front-End Estágiario** \
 [**Valemobi - TradeMap**](https://www.linkedin.com/company/trademaphub/)\
 Competências: `Angular`, `TypeScript`, `Angular Material`,
-<br/> `StoryBook`, `Bootstrap`, `SCSS`, `Docker`
+<br/> `StoryBook`, `Bootstrap`, `SCSS`,  `Docker`
 
 ##
 
